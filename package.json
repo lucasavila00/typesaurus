@@ -1,5 +1,5 @@
 {
-  "name": "typesaurus",
+  "name": "typesaurus-gatsby",
   "version": "5.0.0",
   "description": "Type-safe ODM for Firestore",
   "keywords": [
